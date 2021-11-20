@@ -1,7 +1,4 @@
-def main():
-    print('Hi, PyCharm')
-    print('Hello git!')
-
+from run import run
 
 if __name__ == '__main__':
-    main()
+    run()
